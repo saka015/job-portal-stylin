@@ -1,1 +1,7 @@
-# job-portal-stylin
+### add a .env with this -
+
+```
+VITE_SUPABASE_URL=
+VITE_SUPABASE_ANON_KEY=
+VITE_CLERK_PUBLISHABLE_KEY=
+```
